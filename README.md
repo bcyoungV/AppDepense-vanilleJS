@@ -1,6 +1,6 @@
 # AppDepense-vanilleJS
 
-c'est une application pour la decouverte de IONIC Deleppement Mobile.
+c'est une application pour la decouverte de IONIC Developpement Mobile.
 - Pas de Framework
 - Pas de Librairies
 - Pas d'API
@@ -9,4 +9,4 @@ c'est une application pour la decouverte de IONIC Deleppement Mobile.
 
 
 
-By: Bruno Casaca
+By: Bruno-Casaca
