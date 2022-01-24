@@ -22,6 +22,7 @@ BtnSubmit.addEventListener('click', () => {
 }),
 
 BtnCancel.addEventListener('click', () => {
+  
   depensesList.textContent = "";
 
  })
