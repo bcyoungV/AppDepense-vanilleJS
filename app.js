@@ -17,14 +17,15 @@ BtnSubmit.addEventListener('click', () => {
   newLabel.textContent = `${name} : ${prix},00$`; //name +":" + prix;
   newLabel.setAttribute('color', 'primary');
   newItem.appendChild(newLabel);
-  depensesList.appendChild(newItem); 
+  depensesList.appendChild(newItem);
  }
 }),
 
 BtnCancel.addEventListener('click', () => {
-  
-  depensesList.textContent = "";
 
+  intituleInput.value = "";
+  sommeInput.value = "";
+  
  })
 
 
